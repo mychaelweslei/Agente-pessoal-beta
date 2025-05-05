@@ -1,0 +1,15 @@
+# Cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Dados sensíveis
+.env
+
+# Arquivos temporários
+*.log
+*.csv
+*.xlsx
+
+# Sistema
+.DS_Store
